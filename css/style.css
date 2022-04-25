@@ -1,0 +1,33 @@
+
+.login_form{
+    border: solid;
+    width: 500px;
+    background-color: lightblue  ;
+    padding: 40px;
+    margin: auto;
+    text-align:center;
+}
+
+.password{
+    padding: 15px;
+    color: gray;
+    margin-bottom: 0px;
+}
+.pass{
+    text-decoration: none;
+}
+.password:hover{
+    color: black;
+}
+.face{
+    background-color: #4267B2;
+    width: 35px;
+    height: 35px;
+    border-radius: 13%;
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+p{
+    font-family: sans-serif;
+}

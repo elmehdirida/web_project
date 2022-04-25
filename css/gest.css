@@ -1,0 +1,40 @@
+.q{ margin :0px;
+    padding: 0px;
+}
+.y{ text-align :center;
+    
+   
+}
+tr { background : rgb(210, 215, 219); 
+    
+}
+tr:nth-child(odd) { background : gray;
+    height: 20px;
+}
+div img{     
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+    .Z{ background-color: rgb(50, 50, 53);
+    width: 100%;
+    padding: 30px;
+    border-radius:10px ; 
+    text-align: center ;
+    font-family:italic;
+    margin-top: 0%;
+    height: 100px;}
+    .x{ background-color: rgb(50, 50, 53);
+    color: rgb(247, 250, 253);  
+    }
+    #g{background-color: rgba(25, 22, 31, 0.89);
+    height: 35px;
+    padding: 10px;
+    border-radius : 30px;
+    color: rgb(247, 250, 253);
+    } 
+    th{ color: black;
+background-color: rgb(210, 215, 219);}
+input { background-color :black;
+    border-radius : 30px;
+color :rgb(247, 250, 253) ;}

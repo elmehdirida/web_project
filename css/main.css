@@ -1,0 +1,16 @@
+        #search_btn{
+            margin-left: 30px;
+            min-width: 50px;
+        }
+        .laro-img{
+        width: 70%; 
+        margin: auto; 
+        height: 400px;
+        }
+      
+        .card {
+          margin: auto;
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          text-align: center;
+          font-family: arial;
+        }

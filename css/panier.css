@@ -1,0 +1,71 @@
+body {
+    background: #ddd;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: bold
+}
+
+.title {
+    margin-bottom: 2rem;
+}
+
+.card {
+    margin: auto;
+    max-width: 1000px;
+    width: 90%;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 1rem;
+}
+
+
+
+.cart {
+    background-color: #fff;
+    padding: 4vh 5vh;
+    border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem
+}
+
+
+
+.summary {
+    background-color: #ddd;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    padding: 4vh;
+    color: rgb(65, 65, 65)
+}
+
+
+.main {
+    padding: 2rem 0;
+    width: 100%
+}
+
+.close {
+    margin-left: auto;
+    font-size: 0.9rem
+}
+img {
+    width: 3.5rem
+}
+.back-to-shop {
+    margin-top: 4.5rem
+}
+form {
+    padding: 2vh 0
+}
+.btn {
+    background-color: #000;
+    border-color: #000;
+    color: white;
+    width: 100%;
+    font-size: 0.7rem;
+    margin-top: 4vh;
+    padding: 1vh;
+    border-radius: 0
+}
+
+.btn:hover {
+    color: white
+}
